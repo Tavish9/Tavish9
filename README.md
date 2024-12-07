@@ -2,15 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Qizhi+Chen;It's+good+to+see+you)](https://git.io/typing-svg)
 
-🎓 I am an undergraduate majoring in computer science at [SUSTech](https://sustech.edu.cn/en)
+🎓 I am a Ph.D. candidate in computer science at [ZJU](https://www.zju.edu.cn/english/)
 
-🔭 I’m currently working on research about 3DVG and NeRF.
+🔍 I’m currently working on research about 3DV, Multi-Modal LLM and Embodied AI.
 
-✨ Always looking forward to new things!
+🚀 Always looking forward to new things!
 
 ### 🔥 Tech Stack
 
-![Tech stack](https://skillicons.dev/icons?i=py,pytorch,java,spring,maven,tauri,vue,vite,nodejs,postgresql,docker,git&theme=light)
+![Tech stack](https://skillicons.dev/icons?i=py,pytorch,neovim,java,spring,maven,tauri,vue,vite,nodejs,postgresql,docker,git&theme=light)
 
 ### 🚀 Contributions
 <picture>
