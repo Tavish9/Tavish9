@@ -21,7 +21,7 @@
 
 ### ⚡ Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tavish9&show_icons=true&hide_border=true" alt="Tavish9's github stats" /></a> | 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tavish9&show_icons=true&hide_border=true&theme=tokyonight" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Tavish9&show_icons=true&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tavish9&show_icons=true&hide_border=true" alt="Tavish9's github stats" /></picture></a> | 
 | ------------------------------------------------------------ | 
 
 <!--
