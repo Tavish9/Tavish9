@@ -10,7 +10,7 @@
 
 ### 🔥 Tech Stack
 
-![Tech stack](https://skillicons.dev/icons?i=py,pytorch,neovim,java,spring,maven,tauri,vue,vite,nodejs,postgresql,docker,git&theme=light)
+![Tech stack](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,huggingface,neovim,java,spring,maven,tauri,vue,vite,nodejs,postgresql,docker,git&theme=light)
 
 ### 🚀 Contributions
 <picture>
@@ -21,8 +21,8 @@
 
 ### ⚡ Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tavish9&show_icons=true&hide_border=true" alt="Tavish9's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavish9&layout=compact&hide_border=true&exclude_repo=Tavish9.github.io&hide=html" /></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tavish9&show_icons=true&hide_border=true" alt="Tavish9's github stats" /></a> | 
+| ------------------------------------------------------------ | 
 
 <!--
 **Tavish9/Tavish9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
