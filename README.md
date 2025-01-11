@@ -21,8 +21,11 @@
 
 ### ⚡ Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tavish9&show_icons=true&hide_border=true&theme=tokyonight" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Tavish9&show_icons=true&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tavish9&show_icons=true&hide_border=true" alt="Tavish9's github stats" /></picture></a> | 
-| ------------------------------------------------------------ | 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tavish9&show_icons=true&hide_border=true&theme=tokyonight" /><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Tavish9&show_icons=true&hide_border=true" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tavish9&show_icons=true&hide_border=true" alt="Tavish9's github stats" /></picture></a> | <a href="https://git.io/streak-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Tavish9&theme=tokyonight&hide_border=true" /><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Tavish9&hide_border=true" /><img align="center" src="https://streak-stats.demolab.com/?user=Tavish9&hide_border=true" alt="Tavish9's github streak" /></picture></a> | 
+| ------------------------------------------------------------ | ------------------------------------------------------------ | 
+
+
+
 
 <!--
 **Tavish9/Tavish9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
