@@ -10,7 +10,7 @@
 
 ### 🔥 Tech Stack
 
-![Tech stack](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,huggingface,neovim,java,spring,maven,tauri,vue,vite,nodejs,postgresql,docker,git&theme=auto)
+![Tech stack](https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,huggingface,neovim,java,spring,maven,tauri,vue,vite,nodejs,postgresql,apptainer,docker,git&theme=auto)
 
 ### 🚀 Contributions
 <picture>
